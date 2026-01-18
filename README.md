@@ -23,7 +23,7 @@ Dự án này tập trung xây dựng một hệ thống phân loại rủi ro t
 ## Hướng dẫn chạy dự án
 1.  **Clone repository:**
     ```bash
-    git clone []
+    git clone [duong_dan_link_repo_cua_ban]
     cd home-credit-default-risk
     ```
 2.  **Cài đặt các thư viện cần thiết:**
